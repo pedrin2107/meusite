@@ -6,6 +6,6 @@ body{
     background: #b500fd
 }
 
-h1{
+h1 strong{
     color:blueviolet;
 }
